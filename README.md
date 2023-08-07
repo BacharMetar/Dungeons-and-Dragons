@@ -21,6 +21,7 @@
    - [Add New Player Class](#add-new-player-class)
    - [Add New Enemy Class](#add-new-enemy-class)
 10. [Submission Guidelines](#submission-guidelines)
+11. [Installation](Installation)
 
 ## Overview
 This project implements a single-player multi-level version of a Dungeons and Dragons board game. Navigate through dungeons, defeat enemies, and advance through levels to win the game. The program adheres to OOP principles and coding conventions and extensively utilizes callbacks for user interaction.
@@ -82,3 +83,22 @@ The game starts with player selection and displays the game state after each rou
 ### Interacting with the CLI - Callbacks/Observer Pattern
 The UI and business layers communicate using callbacks or the Observer pattern.
 
+## Installation
+
+1. Ensure you have Java Development Kit (JDK) installed on your system.
+2. Clone this repository to your local machine using:
+   ```
+   git clone https://github.com/BacharMetar/Dungeons-and-Dragons.git
+   ```
+3. Navigate to the project directory:
+   ```
+   cd Dungeons-and-Dragons
+   ```
+
+## Usage
+
+run the game using the following commands:
+
+```bash
+java -jar DND.jar
+```
