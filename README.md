@@ -82,20 +82,3 @@ The game starts with player selection and displays the game state after each rou
 ### Interacting with the CLI - Callbacks/Observer Pattern
 The UI and business layers communicate using callbacks or the Observer pattern.
 
-## Forms of Input
-The game reads level files from a specified directory, where each file represents a game level.
-
-## Testing Your Game
-Unit tests covering basic and edge cases should be created to ensure functionality and adherence to requirements.
-
-## Bonus (+5 points each)
-Enhance the game with the following additions:
-
-### Add New Player Class - Hunter
-The Hunter class comes with unique abilities and resource management.
-
-### Add New Enemy Class - Boss
-Implement the HeroicUnit interface for player classes and a new enemy class called Boss. Bosses exhibit special abilities and behaviors.
-
-## Submission Guidelines
-Submit a zip file named 'id1_id2.zip', containing a UML class diagram in 'hw3.pdf' and compiled files in 'hw3.jar'. Ensure compatibility with Windows 10 and Java 15.
