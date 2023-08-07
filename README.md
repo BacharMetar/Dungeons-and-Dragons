@@ -23,7 +23,7 @@
 10. [Submission Guidelines](#submission-guidelines)
 
 ## Overview
-This project implements a single-player multi-level version of a Dungeons and Dragons board game. Navigate through dungeons, defeat enemies, and advance through levels to win the game. The program adheres to OOP principles and coding conventions.
+This project implements a single-player multi-level version of a Dungeons and Dragons board game. Navigate through dungeons, defeat enemies, and advance through levels to win the game. The program adheres to OOP principles and coding conventions and extensively utilizes callbacks for user interaction.
 
 ## Game Description
 The game unfolds on a board featuring a player, various enemies, walls, and open areas. Different symbols represent these elements, with the player aiming to progress through levels by defeating enemies and surviving.
